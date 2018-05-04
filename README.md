@@ -4,4 +4,4 @@ The deep learning agent makes use of policy behavioral cloning, which means it t
 
 This deep learning agent makes use of a network of stacked affine transformations and non-linear activation functions. The neural net makes use of four layers, wherein each layer has its own weight and bias vectors. 
 
-<iframe src="https://giphy.com/embed/QgjuSSuVL5JacTNyoW" width="480" height="472" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QgjuSSuVL5JacTNyoW">via GIPHY</a></p>
+<a href="https://imgflip.com/gif/29m1mw"><img src="https://i.imgflip.com/29m1mw.gif" title="made at imgflip.com"/></a>
