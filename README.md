@@ -3,3 +3,5 @@
 The deep learning agent makes use of policy behavioral cloning, which means it trains itself using an expert policy. This in turn allows for continous state spaces to be enumerated as the neural net allows the agent to learna mapping between any game state and subsequent action. 
 
 This deep learning agent makes use of a network of stacked affine transformations and non-linear activation functions. The neural net makes use of four layers, wherein each layer has its own weight and bias vectors. 
+
+<iframe src="https://giphy.com/embed/QgjuSSuVL5JacTNyoW" width="480" height="472" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QgjuSSuVL5JacTNyoW">via GIPHY</a></p>
